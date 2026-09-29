@@ -23,7 +23,7 @@ Evaluation should inform product decisions: what the UI displays, when it asks f
 
 ## Files
 
-- [Rubric]([docs/rubric.md](https://github.com/yashmedhe/ai-answer-evaluation-framework/blob/main/rubric.md))
+- [Rubric](docs/rubric.md)
 - [Review playbook](docs/review-playbook.md)
 - [Scored synthetic cases](examples/scored-cases.md)
 - [Iteration log](docs/iteration-log.md)
